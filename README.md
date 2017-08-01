@@ -91,7 +91,7 @@ a day where the patient visits a hospital to get treatment. The patient lies or
 sits on a couch and a linear accelerator generates X-rays that are directed via 
 one or more beams at the patient's tumor(s). A radiation
 oncologist prescribes the total amount of radiation to be delivered measured in
-[Grays (Gy)](https://en.wikipedia.org/wiki/Gray_(unit).
+[Grays (Gy)](https://en.wikipedia.org/wiki/Gray_(unit)) .
 
 
 Write a new method `radiation_total_dose` for the `DicomParser`
